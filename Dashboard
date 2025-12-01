@@ -1,0 +1,7 @@
+📁 hr-analytics-dashboard/
+├── 📁 data/              # Sample HR datasets (anonymized)
+├── 📁 notebooks/         # Jupyter notebooks with analysis
+├── 📁 dashboard/         # Tableau/Figma dashboard files
+├── 📁 src/              # Python scripts for data processing
+├── README.md            # Project documentation
+└── requirements.txt     # Python dependencies
